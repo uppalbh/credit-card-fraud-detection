@@ -1,0 +1,7 @@
+Metric,Value
+Total Samples,5973
+Fraud Cases,3
+Fraud Percentage,0.05%
+Detected Frauds,4
+False Positives,4
+False Negatives,1

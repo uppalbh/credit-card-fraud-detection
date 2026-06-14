@@ -1,0 +1,5 @@
+Metric,Baseline,SMOTE,Undersampled
+Accuracy,0.95,0.91,0.88
+Precision,0.82,0.14,0.03
+Recall,0.68,0.91,0.92
+F1-Score,0.74,0.24,0.06
